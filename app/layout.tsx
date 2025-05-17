@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Toaster } from "sonner";
 import { ThemeProvider } from "@/provider/theme-provider";
-import Header from "@/components/home/header";
+import Header from "@/components/home-commponents/header";
 
 export const metadata: Metadata = {
   title: "AI leet coach",

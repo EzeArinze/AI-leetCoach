@@ -1,4 +1,4 @@
-import LeetCoachPage from "@/components/home/leet-coach-page";
+import LeetCoachPage from "@/components/home-commponents/leet-coach-page";
 
 export default function Home() {
   return (
